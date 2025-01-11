@@ -2,6 +2,8 @@ import javax.swing.*;
 
 public class OlaMundo {
     public static void main(String[] args) {
+
+
         JFrame frame = new JFrame("Minha Aplicação Swing");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(400, 300);
